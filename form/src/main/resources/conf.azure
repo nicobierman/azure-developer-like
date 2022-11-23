@@ -1,0 +1,16 @@
+spring_cloud_azure_active_dir-ectory_enabled=true
+# Specifies your Active Directory ID:
+spring_cloud_azure_active_directory_profile_tenant_id=2bf80a97_feeb_4ffa_be69_14c56f49312d
+# Specifies your App Registration's Application ID:
+spring_cloud_azure_active_directory_credential_client_id=a5f8697c_b46a_4851_bf6d_aa177c1d036d
+# Specifies your App Registration's secret key:
+spring_cloud_azure_active_directory_credential_client_secret=0e_8Q~aGgevijA9r4HKMcZecCe8XawfyFFDWNacg
+
+## Cosmos DB
+# Specify the DNS URI of your Azure Cosmos DB_
+azure_cosmos_uri=https://demo_cosmosdb_nico_documents_azure_com:443/
+# Specify the access key for your database_
+azure_cosmos_key=1Yy8fT6nWyjCfPgn5BucmiM5Va8hcXxCnts8P854wdq76Z1VTKdB2uq6Rv8wbMNmy6C9e9bRezI2ACDbKukIAg==
+# Specify the name of your database_
+azure_cosmos_database=demo_cosmosdb_nico
+azure_cosmos_populateQueryMetrics=false
